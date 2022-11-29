@@ -70,10 +70,10 @@ I have a strong passion For learning & implementing new web technologies and sta
     <img  align="left" src="twitter.png" />
   </a>
   <a href="#" title="rafin">
-    <img width="130"  align="left" src="youtube.png" />
+    <img width="150"  align="left" src="youtube.png" />
   </a>
   <a href="#" title="rafin">
-    <img width="140"  align="left" src="reddit.png" />
+    <img width="150"  align="left" src="reddit.png" />
   </a>
 </div>
 
