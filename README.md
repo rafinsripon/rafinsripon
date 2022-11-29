@@ -1,19 +1,52 @@
-<img alt="Avento marketing" width="1200" height="300" data-id="6139167"  src="trungquandev.svg">
-<h1 align="center">Hi 👋, I'm Rafins Ripon</h1>
-<h3 align="center">A passionate backend and frontend developer from Bangladesh</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafinsripon&label=Profile%20views&color=0e75b6&style=flat" alt="rafinsripon" /> </p>
+<img alt="Avento marketing" viewBox="0 0 1200 750" width="1200" height="700" data-id="6139167"  src="trungquandev.svg">
+</a>
+<h2 align="center">💫 ABOUT ME 💫</h2><br>
+<p>Hello, I’m Repon,I'm Front-End Developer <br>My core skill is based on React Js and I love to do most of the things with React Js.<br>
+I lot of love For cooding. Coding is my passion. And coding is my profession<br>
+I have a strong passion For learning & implementing new web technologies and standards.</p>
 
-<p align="left"> <a href="https://twitter.com/rafins mahmud ripon" target="blank"><img src="https://img.shields.io/twitter/follow/rafins mahmud ripon?logo=twitter&style=for-the-badge" alt="rafins mahmud ripon" /></a> </p>
+<h2 align="center">💫 TECHNOLOGIES AND TOOLS 💫</h2>
+<br>
+<!_________________________________________________________________________>
+<!________________________________ My Skills Here_________________________>
+<span><img src="https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=#61DAFB" alt="React logo" title="React" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/MongoDB-090909?logo=mongodb&logoColor=#47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Node.js-090909?logo=node.js&logoColor=#00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Express-090909?logo=express&logoColor=#FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Firebase-090909?logo=firebase&logoColor=#FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/ESLint-090909?logo=eslint&logoColor=#4B32C3" alt="ESLint logo" title="ESLint" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Redux-090909?logo=redux&logoColor=#764ABC" alt="Redux logo" title="Redux" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/TypeScript-090909?logo=typescript&logoColor=#3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/HTML5-090909?logo=html5&logoColor=#E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/CSS3-090909?logo=css3&logoColor=#1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Tailwind%20CSS-090909?logo=tailwind-css&logoColor=#38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Sass-090909?logo=sass&logoColor=#CC6699" alt="SASS logo" title="SASS" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Bootstrap-090909?logo=bootstrap&logoColor=#7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/WordPress-090909?logo=wordPress&logoColor=#21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/git-090909?logo=git&logoColor=#F05032" alt="git logo" title="git" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/VS%20Code-090909?logo=visual-studio-code&logoColor=#007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
+&nbsp;
 
-- 🔭 I’m currently working on **Webdesign & developer**
+<br>
+<h2 align="center">💫MY GITHUB STATUS 💫</h2>
 
-- 🌱 I’m currently learning **Backend web developer**
-
-- 💬 Ask me about **web developer Marn**
-
-- 📫 How to reach me **rafinsripon@gmail.com**
-
-- ⚡ Fun fact **I think I'm funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
