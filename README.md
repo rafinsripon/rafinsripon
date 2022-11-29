@@ -69,6 +69,15 @@ I have a strong passion For learning & implementing new web technologies and sta
   <a href="#" title="rafin">
     <img align="left" src="twitter.png" />
   </a>
+  <a href="#" title="rafin">
+    <img align="left" src="youtube.png" />
+  </a>
+  <a href="#" title="rafin">
+    <img align="left" src="reddit.png" />
+  </a>
+  <a href="#" title="rafin">
+    <img align="left" src="flickr.png" />
+  </a>
 </div>
 
 
