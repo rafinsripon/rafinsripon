@@ -55,7 +55,21 @@ I have a strong passion For learning & implementing new web technologies and sta
 <a href="#" title="rafins_ripon"><img width="434" src="https://github-readme-streak-stats.herokuapp.com/?user=mir-hussain&background=0D1117&sideNums=FFFFFF&sideLabels=9A9A9A&currStreakNum=FB8C00&dates=6E6E6E" /></a>
 </div>
 
-<h3 align="left">Connect with me:</h3>
+<br>
+<h2 align="center">💫 MY SOCIAL ACCOUNT 💫</h2>
+<div align=start display=flex>
+<a href="facebook.com" title="rafin">
+    <img align="left" src="facebook.png" />
+  </a>
+<a href="#" title="rafin">
+    <img align="left" src="linkedin.png" />
+  </a>
+  <a href="#" title="rafin">
+    <img align="left" src="twitter.png" />
+  </a>
+</div>
+
+
 <p align="left">
 <a href="https://twitter.com/rafins mahmud ripon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rafins mahmud ripon" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rafins ripon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafins ripon" height="30" width="40" /></a>
