@@ -1,4 +1,4 @@
-<img alt="Avento marketing" viewBox="0 0 1200 750" width="1200" height="700" data-id="6139167"  src="trungquandev.svg">
+<img alt="Avento marketing" viewBox="0 0 1200 750" width="1200" height="700" data-id="6139167"  src="trungquandevss.svg">
 </a>
 <h2 align="center">💫 ABOUT ME 💫</h2><br>
 <p>Hello, I’m Repon,I'm Front-End Developer <br>My core skill is based on React Js and I love to do most of the things with React Js.<br>
@@ -47,6 +47,13 @@ I have a strong passion For learning & implementing new web technologies and sta
 <br>
 <h2 align="center">💫MY GITHUB STATUS 💫</h2>
 
+<br>
+<div align=start display=flex>
+<a href="#" title="Trungquandev">
+    <img align="left" width="434" src="https://github-readme-stats.vercel.app/api?username=rafinsripon&show_icons=true&theme=radical" />
+  </a>
+<a href="#" title="rafins_ripon"><img width="434" src="https://github-readme-streak-stats.herokuapp.com/?user=mir-hussain&background=0D1117&sideNums=FFFFFF&sideLabels=9A9A9A&currStreakNum=FB8C00&dates=6E6E6E" /></a>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
