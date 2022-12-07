@@ -61,13 +61,13 @@ I have a strong passion For learning & implementing new web technologies and sta
 <h2 align="center">💫 MY SOCIAL ACCOUNT 💫</h2>
 <div  align=start>
 <a href="facebook.com" title="rafin">
-    <img  align="left" src="facebook.png" />
+    <img  width="150"  align="left" src="facebook.png" />
   </a>
 <a href="#" title="rafin">
-    <img width="140"  align="left" src="linkedin.png" />
+    <img width="150"  align="left" src="linkedin.png" />
   </a>
   <a href="#" title="rafin">
-    <img width="140" align="left" src="twitter.png" />
+    <img width="150" align="left" src="twitter.png" />
   </a>
   <a href="#" title="rafin">
     <img width="150"  align="left" src="youtube.png" />
